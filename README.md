@@ -19,7 +19,7 @@ We created several data frames where we dropped null columns, removed unnecessar
 
 Next, we made another dataframe where we concatenated our two previous data frames, added new columns and used this new df to make predictions and to create scatter plots and a 3D visualization of the cryptocurrency data (seen below) for the Accountantability Accounting team.
 
-![Screen Shot 2021-02-13 at 8 17 01 PM](https://user-images.githubusercontent.com/71476009/107866632-7da32580-6e38-11eb-8fc3-65625f08c2c0.png)
+![Screen Shot 2021-02-13 at 8 35 02 PM](https://user-images.githubusercontent.com/71476009/107866869-03c06b80-6e3b-11eb-90b6-64074b462280.png)
 
 ![Screen Shot 2021-02-13 at 8 20 39 PM](https://user-images.githubusercontent.com/71476009/107866691-fbffc780-6e38-11eb-9b01-c145f6b41bf3.png)
 
